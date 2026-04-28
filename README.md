@@ -281,8 +281,11 @@ Graduate Student, Information Technology and Management
 Illinois Institute of Technology
 
 GitHub: Shreevikas-BJ
+
 LinkedIn: shreevikasbj
+
 Portfolio: datascienceportfol.io/shreevikasbj
+
 
 ## Repository
 
